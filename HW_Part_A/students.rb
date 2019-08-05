@@ -26,7 +26,7 @@ class Student
   end
 
   def favourite_programming_language(language)
-    return 'I love ' + language
+    return "I love #{language}"
   end
 
 end
